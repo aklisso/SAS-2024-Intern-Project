@@ -33,7 +33,7 @@ Note:
 - You may notice all file names are followed by _gl. This is to distinguish the GitLab versions, which are commented to facilitate third-party use, from my personal versions.
 
 ## Support
-Please email ava.klissouras@sas.com with any questions or concerns.
+Please email aklissouras@unc.edu with any questions or concerns.
 
 ## Authors and acknowledgment
 
